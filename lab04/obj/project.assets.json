@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Школа\\Інформатика\\C#\\lab04\\lab04\\lab04.csproj",
+      "projectUniqueName": "D:\\Школа\\Інформатика\\C#\\labs_sidletskyi\\lab04\\lab04.csproj",
       "projectName": "lab04",
-      "projectPath": "D:\\Школа\\Інформатика\\C#\\lab04\\lab04\\lab04.csproj",
+      "projectPath": "D:\\Школа\\Інформатика\\C#\\labs_sidletskyi\\lab04\\lab04.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Школа\\Інформатика\\C#\\lab04\\lab04\\obj\\",
+      "outputPath": "D:\\Школа\\Інформатика\\C#\\labs_sidletskyi\\lab04\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
